@@ -4,7 +4,7 @@ I'm a bored Austrian guy that tries to figure out Computers and stuff alike. Wis
 
 - 🌱 On the way of learning Computer Science and also mastering Linux.
 - 💻 My hobbies are coding, biking and gaming. 
-- 💌 Contact me at [schwieger_m@pm.me](mailto:schwieger_m@pm.me).
+- 💌 Contact me at [dev_saz4nd0ra@protonmail.ch](mailto:dev_saz4nd0ra@protonmail.ch).
 
 Technologies I've been learning and using so far :
 
