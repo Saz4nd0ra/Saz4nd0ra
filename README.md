@@ -5,10 +5,10 @@ I'm a bored Austrian guy that tries to figure out Computers and stuff alike. Wis
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saz4nd0ra&theme=dracula&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Saz4nd0ra&theme=dracula&show_icons=true" height="170" />
 </div>
-<br/>
 
 My two most important repos. Will be more in the near future!
 
+<br/>
 <div align="center">
 <a href="https://github.com/Saz4nd0ra/saz-cogs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saz4nd0ra&repo=saz-cogs&show_icons=true&theme=dracula" />
