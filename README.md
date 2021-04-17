@@ -11,8 +11,6 @@ Technologies I've been learning and using so far :
 - Programming languages : <br />
     [![Python](https://img.shields.io/badge/-Python-eee?style=flat-square&logo=python)](https://github.com/Saz4nd0ra)
     [![Java](https://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=ff3b3b)](https://github.com/Saz4nd0ra)
-    [![Kotlin](https://img.shields.io/badge/-Kotlin-eee?style=flat-square&logo=kotlin)](https://github.com/Saz4nd0ra)
-    [![JS](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript)](https://github.com/Saz4nd0ra)
 - Machine Learning / Deep Learning frameworks : <br />
     [![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00)](https://github.com/Saz4nd0ra)
     [![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)](https://github.com/Saz4nd0ra)
