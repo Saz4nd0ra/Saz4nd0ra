@@ -16,7 +16,7 @@ You can contact me through Twitter or [E-Mail](mailto:dev_saz4nd0ra@protonmail.c
 
 </br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saz4nd0ra&theme=dark&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Saz4nd0ra&theme=dark&show_icons=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saz4nd0ra&theme=dark&layout=compact&hide=css" height="120" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Saz4nd0ra&theme=dark&show_icons=true" height="125" width="300" />
 </div>
 </br>
 
