@@ -14,11 +14,33 @@ I love playing with operating systems, creating useless applications and trying 
 
 You can contact me through Twitter or [E-Mail](mailto:dev_saz4nd0ra@protonmail.ch) (idk why you would use E-Mail, but nevertheless). Below are my GitHub stats if you are interested!
 
+## Stats
+
 </br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saz4nd0ra&theme=dark&layout=compact&hide=css" height="120" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Saz4nd0ra&theme=dark&show_icons=true" height="125" width="300" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saz4nd0ra&theme=dark&layout=compact&hide=css" width="300" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Saz4nd0ra&theme=dark&show_icons=true" width="300" />
 </div>
 </br>
+
+## Main projects
+
+</br>
+<div align="center">
+<a href="https://github.com/Saz4nd0ra/Urgot-DiscordBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saz4nd0ra&repo=Urgot-DiscordBot&show_icons=true&theme=dark" />
+</a>
+  <a href="https://github.com/Saz4nd0ra/Ro-discord-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saz4nd0ra&repo=Ro-discord-bot&show_icons=true&theme=dark" />
+</a>
+  <a href="https://github.com/Saz4nd0ra/saz-cogs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saz4nd0ra&repo=saz-cogs&show_icons=true&theme=dark" />
+</a>
+  <a href="https://github.com/Saz4nd0ra/hentai-scraper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saz4nd0ra&repo=hentai-scraper&show_icons=true&theme=dark" />
+</a>
+ </div> 
+ <br/>
+
 
 ### Tools I use
 
