@@ -4,7 +4,7 @@
 
 ## About me
 
-Hi! 👋 I'm Michael Schwieger, also known as Saz4nd0ra, and I'm an austrian computer science student and hobbyist programmer in the age of `{currentYear - 2001}`.
+Hi! 👋 I'm Michael Schwieger, also known as Saz4nd0ra, and I'm a <!--age:2001-06-28-->19 years old, austrian computer science student and hobbyist programmer.
 
 I love playing with operating systems, creating useless applications and trying different methods to mess up things. I'm a huge lover of Arch Linux (btw, I use Arch). Mostly, I'm working with Python, Java and Go, but sometimes I try different things out, like web development with JavaScript. 
 
