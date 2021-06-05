@@ -10,7 +10,7 @@ I love playing with operating systems, creating useless applications and trying 
 
 ## Contact
 
-You can contact me through Twitter or [E-Mail](mailto:dev_saz4nd0ra@protonmail.ch) (idk why you would use E-Mail, but nevertheless). Below are my GitHub stats if you are interested!
+You can contact me through [Twitter](https://twitter.com/Saz4nd0ra) or Discord (Saz4nd0ra#9747). Below are my GitHub stats if you are interested!
 
 ## Stats
 
