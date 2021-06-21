@@ -12,7 +12,7 @@ I love playing with operating systems, creating useless applications and trying 
 
 You can contact me through [Twitter](https://twitter.com/Saz4nd0ra) or Discord (Saz4nd0ra#9747). Below are my GitHub stats if you are interested!
 
-### Tools I use or used to use
+## Tools I use or used to use
 
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&logoColor=FFFFFF&message=Python&color=3776AB&label=)](https://www.python.org/)
 [![Go](https://img.shields.io/static/v1?style=for-the-badge&logo=Go&logoColor=FFFFFF&message=Go&color=00ADD8&label=)](https://golang.org/)
