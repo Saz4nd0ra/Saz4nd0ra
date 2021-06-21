@@ -12,6 +12,19 @@ I love playing with operating systems, creating useless applications and trying 
 
 You can contact me through [Twitter](https://twitter.com/Saz4nd0ra) or Discord (Saz4nd0ra#9747). Below are my GitHub stats if you are interested!
 
+### Tools I use or used to use
+
+[![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&logoColor=FFFFFF&message=Python&color=3776AB&label=)](https://www.python.org/)
+[![Go](https://img.shields.io/static/v1?style=for-the-badge&logo=Go&logoColor=FFFFFF&message=Go&color=00ADD8&label=)](https://golang.org/)
+[![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=Java&logoColor=FFFFFF&message=Java&color=ED8B00&label=)](https://java.com/)
+[![VSCode](https://img.shields.io/static/v1?style=for-the-badge&logo=Visual+Studio+Code&logoColor=FFFFFF&message=VS&nbsp;Code&color=007ACC&label=)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=GitHub&message=GitHub&logoColor=FFFFFF&color=181717&label=)](https://github.com/)
+[![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF&message=JetBrains&nbsp;IDEs&color=000000&label=)](https://www.jetbrains.com/)
+[![Arch](https://img.shields.io/static/v1?style=for-the-badge&logo=Arch+Linux&logoColor=FFFFFF&message=Arch&nbsp;Linux&color=1793D1&label=)](https://archlinux.org/)
+
+
+
 ## Stats
 
 </br>
@@ -19,46 +32,3 @@ You can contact me through [Twitter](https://twitter.com/Saz4nd0ra) or Discord (
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saz4nd0ra&theme=dark&layout=compact&hide=css" width="400" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Saz4nd0ra&theme=dark&show_icons=true" width="400" />
 </div>
 </br>
-
-## Main projects
-
-</br>
-<div align="center">
-<a href="https://github.com/Saz4nd0ra/Urgot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saz4nd0ra&repo=Urgot&show_icons=true&theme=dark" />
-</a>
-  <a href="https://github.com/Saz4nd0ra/hentai-scraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saz4nd0ra&repo=hentai-scraper&show_icons=true&theme=dark" />
-</a>
-  <a href="https://github.com/Saz4nd0ra/heimer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saz4nd0ra&repo=heimer&show_icons=true&theme=dark" />
-</a>
-  <a href="https://github.com/Saz4nd0ra/Ro2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saz4nd0ra&repo=Ro2&show_icons=true&theme=dark" />
-</a>
- </div> 
- <br/>
-
-
-### Tools I use
-
-* IDEs and Editors:
-
-    [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
-    [![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-eee?style=flat-square&logo=intellij-idea&logoColor=ff3333)](https://www.jetbrains.com/idea/)
-    [![PyCharm](http://img.shields.io/badge/-PyCharm-eee?style=flat-square&logo=pycharm&logoColor=33aa33)](https://www.jetbrains.com/pycharm/)
-
-* Operating Systems:
-
-    [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-eee?style=flat-square&logo=arch-linux)](https://archlinux.org)
-    [![Windows](https://img.shields.io/badge/-Windows%2010-eee?style=flat-square&logo=windows&logoColor=007ACC)](https://www.microsoft.com/en-gb/windows/)
-    [![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-eee?style=flat-square&logo=kali-linux&logoColor=ff2244)](https://www.kali.org/)
-
-* Daily tools:
-
-    [![Git](https://img.shields.io/badge/Git-eee?style=flat-square&logo=git)](https://git-scm.com/)
-    [![Alacritty](https://img.shields.io/badge/Alacritty-eee?style=flat-square&logo=powershell&logoColor=ff5500)](https://github.com/alacritty/alacritty)
-    [![Termius](https://img.shields.io/badge/Termius-eee?style=flat-square&logo=powershell&logoColor=0d0359)](https://github.com/alacritty/alacritty)
-
-
-
